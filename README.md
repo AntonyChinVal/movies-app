@@ -79,19 +79,13 @@ fvm use
 make run
 ```
 
-2. Run tests:
-
-```bash
-make test
-```
-
-3. Generate code:
+2. Generate code:
 
 ```bash
 make generated
 ```
 
-4. Clean and get dependencies:
+3. Clean and get dependencies:
 
 ```bash
 make clean
